@@ -1,0 +1,56 @@
+{
+    "songs": [
+      {
+        "title": "Flowers",
+        "artist": "Miley Cyrus",
+        "genre": "Pop",
+        "duration": "3:20",
+        "album": "Endless Summer Vacation",
+        "artistDescription": "Miley Cyrus er en amerikansk sanger kjent for sin kraftige stemme og personlige tekster.",
+        "review": "En sterk låt om selvstendighet og kjærlighet til seg selv.",
+        "link": "https://open.spotify.com/track/2vwm7n2jDriC4G0Tz8gO7W"
+        
+      },
+      {
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "genre": "Synthwave/Pop",
+        "duration": "3:20",
+        "album": "After Hours",
+        "artistDescription": "The Weeknd er en kanadisk artist kjent for sin unike stemme og futuristiske lydbilde.",
+        "review": "En fengende låt med sterke 80-talls vibber.",
+        "link": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+      },
+      {
+        "title": "As It Was",
+        "artist": "Harry Styles",
+        "genre": "Pop",
+        "duration": "2:47",
+        "album": "Harry's House",
+        "artistDescription": "Harry Styles er en britisk popstjerne, kjent for sin særegne musikkstil og karisma.",
+        "review": "En melankolsk men vakker sang om forandring.",
+        "link": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+      },
+      {
+        "title": "Anti-Hero",
+        "artist": "Taylor Swift",
+        "genre": "Pop",
+        "duration": "3:20",
+        "album": "Midnights",
+        "artistDescription": "Taylor Swift er en av verdens største popartister, kjent for sine ærlige og personlige låter.",
+        "review": "En ærlig låt som tar opp personlige utfordringer.",
+        "link": "https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g"
+      },
+      {
+        "title": "Dance The Night",
+        "artist": "Dua Lipa",
+        "genre": "Pop/Disco",
+        "duration": "2:56",
+        "album": "Barbie The Album",
+        "artistDescription": "Dua Lipa er en britisk pop- og discoartist med en rekke internasjonale hits.",
+        "review": "En skikkelig danselåt som gir deg lyst til å bevege deg!",
+        "link": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+      }
+    ]
+  }
+  
